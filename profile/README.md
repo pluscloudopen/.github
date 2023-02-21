@@ -1,4 +1,6 @@
-<img src="/profile/symbol-prod-pluscloud_open.svg" alt="pluscloud open logo" style="width:200px"/>
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="200" src="/profile/symbol-prod-pluscloud_open.svg" alt="pluscloud open logo">
+</p>
 
 # pluscloud open: the data sovereign open source cloud
 
